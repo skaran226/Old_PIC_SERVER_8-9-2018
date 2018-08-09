@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\bin\Release\FPS.exe
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\bin\Release\FPS.pdb
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.Form1.resources
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.exe
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.pdb
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PIC_SERVER\FPS\obj\Release\FPS.SetDataTime.resources
